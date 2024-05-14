@@ -1,1 +1,2 @@
-Aka Tic Tac Toe... WIP.
+Tic Tac Toe for the command line.
+<br>(WIP)
